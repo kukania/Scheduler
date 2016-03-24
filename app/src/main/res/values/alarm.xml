@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm">
+        <item name="alarm_default" value="-1">기본 값</item>
+        <item name="alarm_10" value="10">10분전</item>
+        <item name="alarm_20" value="20">20분전</item>
+        <item name="alarm_30" value="30">30분전</item>
+        <item name="alarm_45" value="45">45분전</item>
+        <item name="alarm_1h" value="60">1시간전</item>
+    </string-array>
+</resources>
