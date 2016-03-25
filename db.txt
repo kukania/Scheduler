@@ -1,0 +1,29 @@
+startTime  - string
+endTime - string
+title  - string
+importantPoint  - int
+pushAlarm  - tinyint
+hour - tinyint
+minute - tinyint
+typeNum - tinyint
+------todo
+dDayCheck
+location
+content
+with;
+who;
+alarmCustomSetting
+------job
+illustraion
+dDayCheck
+PersonList;
+content
+------memorialJob
+doAlarm
+where
+professor
+content
+------fixedjob
+name
+phone
+jobID
